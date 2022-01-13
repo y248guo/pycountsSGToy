@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycountsSGToy"
+project = u"pycountssgtoy"
 copyright = u"2022, Simon Guo"
 author = u"Simon Guo"
 

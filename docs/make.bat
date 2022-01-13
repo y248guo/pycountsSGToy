@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=pycountsSGToy
+set SPHINXPROJ=pycountssgtoy
 
 if "%1" == "" goto help
 

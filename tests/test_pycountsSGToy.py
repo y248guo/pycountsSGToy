@@ -1,4 +1,4 @@
-from pycountsSGToy.pycountsSGToy import count_words
+from pycountssgtoy.pycountssgtoy import count_words
 from collections import Counter
 
 def test_count_words():
